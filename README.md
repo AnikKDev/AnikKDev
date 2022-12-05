@@ -18,4 +18,10 @@
 ## 🛠 Skills
 Javascript, HTML5, CSS3, Bootstrap, Tailwind CSS, React.Js, Express.Js, Node.Js, MongoDB,Google Firebase, JWT, Stripe JS, AOS.
 
-![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikKDev&count_private=true)
+![Anik K Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikKDev&count_private=true)
+
+
+![Anik K Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikKDev&show_icons=true)
+
+
+![Anik K Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikKDev&show_icons=true&theme=nightowl)
