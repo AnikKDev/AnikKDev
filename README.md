@@ -2,6 +2,8 @@
 ## 🚀 About Me
 ### Hey! Anik here.👋
 
+<a href="https://app.daily.dev/anikKdev"><img src="https://api.daily.dev/devcards/21cd707c15a84b498255cebd2f2a3859.png?r=u3z" width="400" alt="Anik Kanti Dev's Dev Card"/></a>
+
 - 🔭 Myself?...I am a tech geek and a Web Developer
 - 🌱 I’m currently learning Next.Js
 - 👯 I’m looking to collaborate on LinkedIn
