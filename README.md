@@ -18,22 +18,16 @@
 
 - 🌱 I’m currently learning **Redux and OOP**
 
-- 👨‍💻 All of my projects are available at [https://graceful-maamoul-bbfb83.netlify.app/](https://graceful-maamoul-bbfb83.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://graceful-maamoul-bbfb83.netlify.app/)
 
-- 📝 I regularly write articles on [https://codedec.com/](https://codedec.com/)
+- 📝 I regularly write articles on [CodeDec](https://codedec.com/)
 
 - 💬 Ask me about **React, JavaScript, Node.js, Express.js, MongoDB, Mongoose**
 
 - 📫 How to reach me **anikdev2016@gmail.com**
 
-<br />
 
-
-
-
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link](https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link)
 
 - ⚡ Fun fact **A homesick frontend guy working as a backend guy as well.**
 
