@@ -60,7 +60,7 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anikkdev&show_icons=true&locale=en&layout=compact" alt="anikkdev" /></p>
 
 <div>
-  <p width="50%">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=anikkdev&show_icons=true&locale=en" alt="anikkdev" /></p>
+  <p>&nbsp;<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=anikkdev&show_icons=true&locale=en" alt="anikkdev" /></p>
 
-<p width="50%"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anikkdev&" alt="anikkdev" /></p>
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikkdev&" alt="anikkdev" />
   </div>
