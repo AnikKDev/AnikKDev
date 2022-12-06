@@ -8,8 +8,10 @@
 
 <br />
 
+## :eyes: Current overview
+
 <div align="left">
-<a href="https://app.daily.dev/anikKdev"><img width="200" src="https://api.daily.dev/devcards/21cd707c15a84b498255cebd2f2a3859.png?r=bib" width="400" alt="Anik Kanti Dev's Dev Card"/></a>
+<a href="[https://app.daily.dev/mir](https://app.daily.dev/anikKdev)"><img align="right" src="[https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg](https://api.daily.dev/devcards/21cd707c15a84b498255cebd2f2a3859.png?r=bib)" width="200" alt="Anik Kanti Dev's Dev Card"/></a>
 </div>
 
 - 🔭 I’m currently working on [Silaan](https://silaan.com/)
@@ -23,6 +25,12 @@
 - 💬 Ask me about **React, JavaScript, Node.js, Express.js, MongoDB, Mongoose**
 
 - 📫 How to reach me **anikdev2016@gmail.com**
+
+<br />
+
+
+
+
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link](https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link)
