@@ -11,7 +11,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/anikKdev"><img align="right" src="https://api.daily.dev/devcards/21cd707c15a84b498255cebd2f2a3859.png?r=bib" width="200" alt="Anik Kanti Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/anikKdev"><img align="right" src="https://api.daily.dev/devcards/21cd707c15a84b498255cebd2f2a3859.png?r=bib" width="300" alt="Anik Kanti Dev's Dev Card"/></a>
 </div>
 
 - 🔭 I’m currently working on [Silaan](https://silaan.com/)
