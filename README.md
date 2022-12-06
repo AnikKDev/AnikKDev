@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikkdev" alt="anikkdev" /></a> </p>
 
-<div align="right">
+<div align="left">
 <a href="https://app.daily.dev/anikKdev"><img width="200" src="https://api.daily.dev/devcards/21cd707c15a84b498255cebd2f2a3859.png?r=bib" width="400" alt="Anik Kanti Dev's Dev Card"/></a>
 </div>
 
