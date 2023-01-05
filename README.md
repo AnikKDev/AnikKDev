@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Anik Kanti Dev</h1>
 <h3 align="center">A guy who loves to code and develop things with JavaScript.</h3>
