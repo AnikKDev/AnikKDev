@@ -20,22 +20,22 @@
 
 </div>
 
-- 🔭 I’m currently working on [Silaan](https://silaan.com/)
+- 🔭 I’m currently working on [ChatCHef](https://chatchefs.com/)
 
-- 🌱 I’m currently learning **Redux and OOP**
+- 🌱 I’m currently learning **DBMS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://graceful-maamoul-bbfb83.netlify.app/)
 
 - 📝 I regularly write articles on [CodeDec](https://codedec.com/)
 
-- 💬 Ask me about **React, JavaScript, Node.js, Express.js, MongoDB, Mongoose**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express.js, MongoDB, Mongoose**
 
 - 📫 How to reach me **anikdev2016@gmail.com**
 
 
 - 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link)
 
-- ⚡ Fun fact **A homesick frontend guy working as a backend guy as well.**
+- ⚡ Fun fact **Aiming towards something fabulous**
 
 
 <!-- BLOG-POST-LIST:START -->
