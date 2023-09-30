@@ -22,13 +22,13 @@
 
 - 🔭 I’m currently working on [ChatCHef](https://chatchefs.com/)
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **Python - FastAPI**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://graceful-maamoul-bbfb83.netlify.app/)
 
 - 📝 I regularly write articles on [CodeDec](https://codedec.com/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express.js, MongoDB, Mongoose**
+- 💬 Ask me about **JavaScript, TypeScript, Python, React, Next.js, Redux, Node.js, Express.js, Postgres, Prisma, MongoDB, Mongoose**
 
 - 📫 How to reach me **anikdev2016@gmail.com**
 
