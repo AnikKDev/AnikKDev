@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Anik Kanti Dev</h1>
-<h3 align="center">A guy who loves to code and develop things with JavaScript.</h3>
+<h3 align="center">A guy who loves to code and develop things with...well, mostly JS/TS.</h3>
 
 
 <p align="center" height="75"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikkdev" alt="anikkdev" /></a> </p>
