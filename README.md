@@ -20,7 +20,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [ChatCHef](https://chatchefs.com/)
+- 🔭 I’m currently working on [StudioDevhub](https://studiodevhub.com/)
 
 - 🌱 I’m currently learning **Python - FastAPI**
 
