@@ -22,18 +22,18 @@
 
 - 🔭 I’m currently working on [StudioDevhub](https://studiodevhub.com/)
 
-- 🌱 I’m currently learning **Python - FastAPI**
+- 🌱 I’m currently learning **Go - "golang"**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://graceful-maamoul-bbfb83.netlify.app/)
 
 - 📝 I regularly write articles on [CodeDec](https://codedec.com/)
 
-- 💬 Ask me about **JavaScript, TypeScript, Python, React, Next.js, Redux, Node.js, Express.js, Postgres, Prisma, MongoDB, Mongoose**
+- 💬 Ask me about **JavaScript, TypeScript, Python, Go, React, Next.js, Vue.js, Nuxt.js, Redux, Pinia, Node.js, Express.js, Postgres, Prisma, MongoDB, Mongoose**
 
 - 📫 How to reach me **anikdev2016@gmail.com**
 
 
-- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1SQAzuDO1ZVvjOgtnPowLE5hopp4620ia/view?usp=share_link)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1WL9JgQyAeLUwh8t5arfW3ca0mVdnsFik/view?usp=drive_link)
 
 - ⚡ Fun fact **Aiming towards something fabulous**
 
