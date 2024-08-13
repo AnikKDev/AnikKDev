@@ -20,13 +20,13 @@
 
 </div>
 
-- 🔭 I’m currently working on [StudioDevhub](https://studiodevhub.com/)
+- 🔭 I’m currently working as a Software Developer at [StudioDevhub](https://studiodevhub.com/)
 
 - 🌱 I’m currently learning **Go - "golang"**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://graceful-maamoul-bbfb83.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/AnikKDev?tab=repositories)
 
-- 📝 I regularly write articles on [CodeDec](https://codedec.com/)
+- 📝 I used to write articles on [CodeDec](https://codedec.com/)
 
 - 💬 Ask me about **JavaScript, TypeScript, Python, Go, React, Next.js, Vue.js, Nuxt.js, Redux, Pinia, Node.js, Express.js, Postgres, Prisma, MongoDB, Mongoose**
 
