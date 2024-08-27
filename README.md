@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working as a Software Developer at [StudioDevhub](https://studiodevhub.com/)
 
-- 🌱 I’m currently learning **Go - "golang"**
+- 🌱 I’m currently preparing for **AWS Solution Architect Associate**
 
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/AnikKDev?tab=repositories)
 
