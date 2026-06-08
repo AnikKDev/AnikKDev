@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working as a Software Developer at [Green Pants Studio](https://www.greenpantsstudio.com/)
 
-- 🌱 In search of 'Inner Peace'.**
+- 🌱 In search of **'Inner Peace'.**
 
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/AnikKDev?tab=repositories)
 
