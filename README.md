@@ -4,7 +4,7 @@
 <h3 align="center">In search of a duck 🦆</h3>
 
 
-<p align="center" height="75"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikkdev" alt="anikkdev" /></a> </p>
+<p align="center" height="75"> <a href="https://github-profile-trophy-fork-two.vercel.app/"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=anikkdev" alt="anikkdev" /></a> </p>
 
 <br />
 
